@@ -1,0 +1,13 @@
+{
+	"name": "todoist-notion-sync",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"type": "module",
+	"dependencies": {
+		"@doist/todoist-api-typescript": "^1.5.0",
+		"@notionhq/client": "^0.4.12",
+		"dotenv": "^10.0.0",
+		"node-fetch": "^3.1.0"
+	}
+}
